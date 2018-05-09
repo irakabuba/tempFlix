@@ -35,7 +35,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://cdn.fbsbx.com/v/t59.2708-21/27420074_1982300645118207_966352166832832512_n.gif?oh=bab44b48fd2d4ed72d0adbdb9c9a33bb&oe=5A7E9F4A' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.fbsbx.com/v/t59.2708-21/27420074_1982300645118207_966352166832832512_n.gif?_nc_cat=0&oh=4d3b44f839783d4db47349bad48b9b35&oe=5AF5464A' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -95,7 +95,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://cdn.fbsbx.com/v/t59.2708-21/31270501_2083712651643672_1910508118773596160_n.gif?_nc_cat=0&oh=8ace752b0f4db7d460baba469f2bd482&oe=5AF462CA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.fbsbx.com/v/t59.2708-21/27868344_1989203147761290_7304692832994852864_n.gif?_nc_cat=0&oh=414d618b6555e4fe46fca4d278b4526d&oe=5AF5757E' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
